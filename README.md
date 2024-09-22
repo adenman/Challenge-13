@@ -25,6 +25,5 @@ The purpose of this application is to to able to view, add, manipulate, and dele
 
 
 
-
 ## Link to finished website
 N/A
