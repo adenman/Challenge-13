@@ -17,8 +17,8 @@ The purpose of this application is to to able to view, add, manipulate, and dele
 
 
 
-<video controls src="bandicam 2024-09-22 00-10-11-080.mp4" title="Title"></video>
 
+<video controls src="bandicam 2024-09-22 00-10-11-080.mp4" title="Title"></video>
 
 
 
